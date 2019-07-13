@@ -1,0 +1,22 @@
+{
+  "todo-items": [
+    {
+      "id": 1,
+      "title": "Clean Up Desk",
+      "description": "Clean up my desk and the area around my desk.",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "title": "Complete Angular Boiler App",
+      "description": "Complete this sample app to have a reference and good starting point for future projects.",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "title": "Milena's Resume",
+      "description": "Help locate Milena's Resume so she can complete it.",
+      "isComplete": false
+    }
+  ]
+}
